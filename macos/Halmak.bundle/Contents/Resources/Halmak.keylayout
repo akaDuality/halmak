@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-05-06 at 21:04 (GMT+8)-->
+<!--Last edited by Ukelele version 359 on 2022-10-06 at 17:35 (GMT+6)-->
 <keyboard group="126" id="-21223" name="Halmak" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -63,18 +63,18 @@
             <key code="15" output="b"/>
             <key code="16" action="a20"/>
             <key code="17" output="z"/>
-            <key code="18" output="1"/>
-            <key code="19" output="2"/>
-            <key code="20" output="3"/>
-            <key code="21" output="4"/>
-            <key code="22" output="6"/>
-            <key code="23" output="5"/>
+            <key code="18" output="!"/>
+            <key code="19" output="@"/>
+            <key code="20" output="#"/>
+            <key code="21" output="$"/>
+            <key code="22" output="^"/>
+            <key code="23" output="%"/>
             <key code="24" output="="/>
-            <key code="25" output="9"/>
-            <key code="26" output="7"/>
+            <key code="25" output="("/>
+            <key code="26" output="&#x0026;"/>
             <key code="27" output="-"/>
-            <key code="28" output="8"/>
-            <key code="29" output="0"/>
+            <key code="28" output="*"/>
+            <key code="29" output=")"/>
             <key code="30" output="]"/>
             <key code="31" action="a18"/>
             <key code="32" action="a19"/>
@@ -172,18 +172,18 @@
             <key code="15" output="B"/>
             <key code="16" action="a12"/>
             <key code="17" output="Z"/>
-            <key code="18" output="!"/>
-            <key code="19" output="@"/>
-            <key code="20" output="#"/>
-            <key code="21" output="$"/>
-            <key code="22" output="^"/>
-            <key code="23" output="%"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="+"/>
-            <key code="25" output="("/>
-            <key code="26" output="&#x0026;"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="_"/>
-            <key code="28" output="*"/>
-            <key code="29" output=")"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="}"/>
             <key code="31" action="a10"/>
             <key code="32" action="a11"/>
